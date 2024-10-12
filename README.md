@@ -28,7 +28,7 @@ This project is an interactive real estate mapping tool built using **Python**, 
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/real-estate-mapping.git
+git clone https://github.com/djdhairya/real-estate-mapping.git
 cd real-estate-mapping
 ```
 
